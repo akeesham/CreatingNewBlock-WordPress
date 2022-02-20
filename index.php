@@ -3,7 +3,7 @@
 /*
     Plugin Name: New Block plugin
     Author URI: https://github.com/akeesham
-    Description: A truly amazing plugin menu
+    Description: A truly amazing plugin
     Version: 1.0
     Author: Akeel
 */
